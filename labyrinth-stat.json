@@ -1,8 +1,8 @@
 {
   "title": "Labyrinth Stat Cap ( With MAX Guild Buff, MAX combined skills)",
-  "floor": [
+  "floors": [
     {
-      "level": 13,
+      "floor": 13,
       "critical": 797092,
       "crit_percent": "85.00%",
       "crit_dmg": 1281478,
@@ -13,7 +13,7 @@
       "fd_percent": "200.00%"
     },
     {
-      "level": 14,
+      "floor": 14,
       "critical": 897092,
       "crit_percent": "95.66%",
       "crit_dmg": 1731478,
@@ -24,7 +24,7 @@
       "fd_percent": "208.03%"
     },
     {
-      "level": 15,
+      "floor": 15,
       "critical": 997092,
       "crit_percent": "106.33%",
       "crit_dmg": 2181478,
@@ -35,7 +35,7 @@
       "fd_percent": "216.06%"
     },
     {
-      "level": 16,
+      "floor": 16,
       "critical": 1097092,
       "crit_percent": "116.99%",
       "crit_dmg": 2631478,
@@ -46,7 +46,7 @@
       "fd_percent": "224.09%"
     },
     {
-      "level": 17,
+      "floor": 17,
       "critical": 1197092,
       "crit_percent": "127.66%",
       "crit_dmg": 3081478,
@@ -57,7 +57,7 @@
       "fd_percent": "232.12%"
     },
     {
-      "level": 18,
+      "floor": 18,
       "critical": 1297092,
       "crit_percent": "138.32%",
       "crit_dmg": 3531478,
@@ -68,7 +68,7 @@
       "fd_percent": "240.15%"
     },
     {
-      "level": 19,
+      "floor": 19,
       "critical": 1397092,
       "crit_percent": "148.98%",
       "crit_dmg": 3981478,
@@ -79,7 +79,7 @@
       "fd_percent": "248.18%"
     },
     {
-      "level": 20,
+      "floor": 20,
       "critical": 1497092,
       "crit_percent": "159.65%",
       "crit_dmg": 4431478,
@@ -90,7 +90,7 @@
       "fd_percent": "256.21%"
     },
     {
-      "level": 21,
+      "floor": 21,
       "critical": 1597092,
       "crit_percent": "170.31%",
       "crit_dmg": 4881478,
@@ -101,7 +101,7 @@
       "fd_percent": "264.24%"
     },
     {
-      "level": 22,
+      "floor": 22,
       "critical": 1697092,
       "crit_percent": "180.97%",
       "crit_dmg": 5331478,
@@ -112,7 +112,7 @@
       "fd_percent": "272.27%"
     },
     {
-      "level": 23,
+      "floor": 23,
       "critical": 1797092,
       "crit_percent": "191.64%",
       "crit_dmg": 5781478,
@@ -123,7 +123,7 @@
       "fd_percent": "280.30%"
     },
     {
-      "level": 24,
+      "floor": 24,
       "critical": 1897092,
       "crit_percent": "202.30%",
       "crit_dmg": 6231478,
@@ -134,7 +134,7 @@
       "fd_percent": "288.33%"
     },
     {
-      "level": 25,
+      "floor": 25,
       "critical": 1997092,
       "crit_percent": "212.97%",
       "crit_dmg": 6681478,
@@ -145,7 +145,7 @@
       "fd_percent": "296.36%"
     },
     {
-      "level": 26,
+      "floor": 26,
       "critical": 2097092,
       "crit_percent": "223.63%",
       "crit_dmg": 7131478,
@@ -156,7 +156,7 @@
       "fd_percent": "304.39%"
     },
     {
-      "level": 27,
+      "floor": 27,
       "critical": 2197092,
       "crit_percent": "234.29%",
       "crit_dmg": 7581478,
@@ -167,7 +167,7 @@
       "fd_percent": "312.42%"
     },
     {
-      "level": 28,
+      "floor": 28,
       "critical": 2297092,
       "crit_percent": "244.96%",
       "crit_dmg": 8031478,
@@ -178,7 +178,7 @@
       "fd_percent": "320.45%"
     },
     {
-      "level": 29,
+      "floor": 29,
       "critical": 2397092,
       "crit_percent": "255.62%",
       "crit_dmg": 8481478,
@@ -189,7 +189,7 @@
       "fd_percent": "328.48%"
     },
     {
-      "level": 30,
+      "floor": 30,
       "critical": 2497092,
       "crit_percent": "266.28%",
       "crit_dmg": 8931478,
@@ -200,7 +200,7 @@
       "fd_percent": "336.51%"
     },
     {
-      "level": 31,
+      "floor": 31,
       "critical": 2597092,
       "crit_percent": "276.95%",
       "crit_dmg": 9381478,
@@ -211,7 +211,7 @@
       "fd_percent": "344.54%"
     },
     {
-      "level": 32,
+      "floor": 32,
       "critical": 2697092,
       "crit_percent": "287.61%",
       "crit_dmg": 9831478,
@@ -222,7 +222,7 @@
       "fd_percent": "352.57%"
     },
     {
-      "level": 33,
+      "floor": 33,
       "critical": 2797092,
       "crit_percent": "298.28%",
       "crit_dmg": 10281478,
@@ -233,7 +233,7 @@
       "fd_percent": "360.60%"
     },
     {
-      "level": 34,
+      "floor": 34,
       "critical": 2897092,
       "crit_percent": "308.94%",
       "crit_dmg": 10731478,
@@ -244,7 +244,7 @@
       "fd_percent": "368.63%"
     },
     {
-      "level": 35,
+      "floor": 35,
       "critical": 2997092,
       "crit_percent": "319.60%",
       "crit_dmg": 11181478,
@@ -255,7 +255,7 @@
       "fd_percent": "376.66%"
     },
     {
-      "level": 36,
+      "floor": 36,
       "critical": 3097092,
       "crit_percent": "330.27%",
       "crit_dmg": 11631478,
@@ -266,7 +266,7 @@
       "fd_percent": "384.69%"
     },
     {
-      "level": 37,
+      "floor": 37,
       "critical": 3197092,
       "crit_percent": "340.93%",
       "crit_dmg": 12081478,
@@ -277,7 +277,7 @@
       "fd_percent": "392.72%"
     },
     {
-      "level": 38,
+      "floor": 38,
       "critical": 3297092,
       "crit_percent": "351.59%",
       "crit_dmg": 12531478,
@@ -288,7 +288,7 @@
       "fd_percent": "400.75%"
     },
     {
-      "level": 39,
+      "floor": 39,
       "critical": 3397092,
       "crit_percent": "362.26%",
       "crit_dmg": 12981478,
@@ -299,7 +299,7 @@
       "fd_percent": "408.78%"
     },
     {
-      "level": 40,
+      "floor": 40,
       "critical": 3497092,
       "crit_percent": "372.92%",
       "crit_dmg": 13431478,
