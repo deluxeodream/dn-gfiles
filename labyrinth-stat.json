@@ -1,0 +1,313 @@
+{
+  "title": "Labyrinth Stat Cap ( With MAX Guild Buff, MAX combined skills)",
+  "floor": [
+    {
+      "level": 13,
+      "critical": 797092,
+      "crit_percent": "85.00%",
+      "crit_dmg": 1281478,
+      "crit_dmg_percent": "295.00%",
+      "pdef_mdef": 231632,
+      "pdef_mdef_percent": "80.95%",
+      "fd": 29888,
+      "fd_percent": "200.00%"
+    },
+    {
+      "level": 14,
+      "critical": 897092,
+      "crit_percent": "95.66%",
+      "crit_dmg": 1731478,
+      "crit_dmg_percent": "328.36%",
+      "pdef_mdef": 261632,
+      "pdef_mdef_percent": "91.44%",
+      "fd": 31088,
+      "fd_percent": "208.03%"
+    },
+    {
+      "level": 15,
+      "critical": 997092,
+      "crit_percent": "106.33%",
+      "crit_dmg": 2181478,
+      "crit_dmg_percent": "361.72%",
+      "pdef_mdef": 291632,
+      "pdef_mdef_percent": "101.92%",
+      "fd": 32288,
+      "fd_percent": "216.06%"
+    },
+    {
+      "level": 16,
+      "critical": 1097092,
+      "crit_percent": "116.99%",
+      "crit_dmg": 2631478,
+      "crit_dmg_percent": "395.08%",
+      "pdef_mdef": 321632,
+      "pdef_mdef_percent": "112.41%",
+      "fd": 33488,
+      "fd_percent": "224.09%"
+    },
+    {
+      "level": 17,
+      "critical": 1197092,
+      "crit_percent": "127.66%",
+      "crit_dmg": 3081478,
+      "crit_dmg_percent": "428.44%",
+      "pdef_mdef": 351632,
+      "pdef_mdef_percent": "122.89%",
+      "fd": 34688,
+      "fd_percent": "232.12%"
+    },
+    {
+      "level": 18,
+      "critical": 1297092,
+      "crit_percent": "138.32%",
+      "crit_dmg": 3531478,
+      "crit_dmg_percent": "461.80%",
+      "pdef_mdef": 381632,
+      "pdef_mdef_percent": "133.37%",
+      "fd": 35888,
+      "fd_percent": "240.15%"
+    },
+    {
+      "level": 19,
+      "critical": 1397092,
+      "crit_percent": "148.98%",
+      "crit_dmg": 3981478,
+      "crit_dmg_percent": "495.16%",
+      "pdef_mdef": 411632,
+      "pdef_mdef_percent": "143.86%",
+      "fd": 37088,
+      "fd_percent": "248.18%"
+    },
+    {
+      "level": 20,
+      "critical": 1497092,
+      "crit_percent": "159.65%",
+      "crit_dmg": 4431478,
+      "crit_dmg_percent": "528.52%",
+      "pdef_mdef": 441632,
+      "pdef_mdef_percent": "154.34%",
+      "fd": 38288,
+      "fd_percent": "256.21%"
+    },
+    {
+      "level": 21,
+      "critical": 1597092,
+      "crit_percent": "170.31%",
+      "crit_dmg": 4881478,
+      "crit_dmg_percent": "561.88%",
+      "pdef_mdef": 471632,
+      "pdef_mdef_percent": "164.83%",
+      "fd": 39488,
+      "fd_percent": "264.24%"
+    },
+    {
+      "level": 22,
+      "critical": 1697092,
+      "crit_percent": "180.97%",
+      "crit_dmg": 5331478,
+      "crit_dmg_percent": "595.24%",
+      "pdef_mdef": 501632,
+      "pdef_mdef_percent": "175.31%",
+      "fd": 40688,
+      "fd_percent": "272.27%"
+    },
+    {
+      "level": 23,
+      "critical": 1797092,
+      "crit_percent": "191.64%",
+      "crit_dmg": 5781478,
+      "crit_dmg_percent": "628.60%",
+      "pdef_mdef": 531632,
+      "pdef_mdef_percent": "185.80%",
+      "fd": 41888,
+      "fd_percent": "280.30%"
+    },
+    {
+      "level": 24,
+      "critical": 1897092,
+      "crit_percent": "202.30%",
+      "crit_dmg": 6231478,
+      "crit_dmg_percent": "661.96%",
+      "pdef_mdef": 561632,
+      "pdef_mdef_percent": "196.28%",
+      "fd": 43088,
+      "fd_percent": "288.33%"
+    },
+    {
+      "level": 25,
+      "critical": 1997092,
+      "crit_percent": "212.97%",
+      "crit_dmg": 6681478,
+      "crit_dmg_percent": "695.32%",
+      "pdef_mdef": 591632,
+      "pdef_mdef_percent": "206.77%",
+      "fd": 44288,
+      "fd_percent": "296.36%"
+    },
+    {
+      "level": 26,
+      "critical": 2097092,
+      "crit_percent": "223.63%",
+      "crit_dmg": 7131478,
+      "crit_dmg_percent": "728.68%",
+      "pdef_mdef": 621632,
+      "pdef_mdef_percent": "217.25%",
+      "fd": 45488,
+      "fd_percent": "304.39%"
+    },
+    {
+      "level": 27,
+      "critical": 2197092,
+      "crit_percent": "234.29%",
+      "crit_dmg": 7581478,
+      "crit_dmg_percent": "762.04%",
+      "pdef_mdef": 651632,
+      "pdef_mdef_percent": "227.74%",
+      "fd": 46688,
+      "fd_percent": "312.42%"
+    },
+    {
+      "level": 28,
+      "critical": 2297092,
+      "crit_percent": "244.96%",
+      "crit_dmg": 8031478,
+      "crit_dmg_percent": "795.40%",
+      "pdef_mdef": 681632,
+      "pdef_mdef_percent": "238.22%",
+      "fd": 47888,
+      "fd_percent": "320.45%"
+    },
+    {
+      "level": 29,
+      "critical": 2397092,
+      "crit_percent": "255.62%",
+      "crit_dmg": 8481478,
+      "crit_dmg_percent": "828.76%",
+      "pdef_mdef": 711632,
+      "pdef_mdef_percent": "248.71%",
+      "fd": 49088,
+      "fd_percent": "328.48%"
+    },
+    {
+      "level": 30,
+      "critical": 2497092,
+      "crit_percent": "266.28%",
+      "crit_dmg": 8931478,
+      "crit_dmg_percent": "862.12%",
+      "pdef_mdef": 741632,
+      "pdef_mdef_percent": "259.19%",
+      "fd": 50288,
+      "fd_percent": "336.51%"
+    },
+    {
+      "level": 31,
+      "critical": 2597092,
+      "crit_percent": "276.95%",
+      "crit_dmg": 9381478,
+      "crit_dmg_percent": "895.48%",
+      "pdef_mdef": 771632,
+      "pdef_mdef_percent": "269.67%",
+      "fd": 51488,
+      "fd_percent": "344.54%"
+    },
+    {
+      "level": 32,
+      "critical": 2697092,
+      "crit_percent": "287.61%",
+      "crit_dmg": 9831478,
+      "crit_dmg_percent": "928.84%",
+      "pdef_mdef": 801632,
+      "pdef_mdef_percent": "280.16%",
+      "fd": 52688,
+      "fd_percent": "352.57%"
+    },
+    {
+      "level": 33,
+      "critical": 2797092,
+      "crit_percent": "298.28%",
+      "crit_dmg": 10281478,
+      "crit_dmg_percent": "962.20%",
+      "pdef_mdef": 831632,
+      "pdef_mdef_percent": "290.64%",
+      "fd": 53888,
+      "fd_percent": "360.60%"
+    },
+    {
+      "level": 34,
+      "critical": 2897092,
+      "crit_percent": "308.94%",
+      "crit_dmg": 10731478,
+      "crit_dmg_percent": "995.56%",
+      "pdef_mdef": 861632,
+      "pdef_mdef_percent": "301.13%",
+      "fd": 55088,
+      "fd_percent": "368.63%"
+    },
+    {
+      "level": 35,
+      "critical": 2997092,
+      "crit_percent": "319.60%",
+      "crit_dmg": 11181478,
+      "crit_dmg_percent": "1028.92%",
+      "pdef_mdef": 891632,
+      "pdef_mdef_percent": "311.61%",
+      "fd": 56288,
+      "fd_percent": "376.66%"
+    },
+    {
+      "level": 36,
+      "critical": 3097092,
+      "crit_percent": "330.27%",
+      "crit_dmg": 11631478,
+      "crit_dmg_percent": "1062.28%",
+      "pdef_mdef": 921632,
+      "pdef_mdef_percent": "322.10%",
+      "fd": 57488,
+      "fd_percent": "384.69%"
+    },
+    {
+      "level": 37,
+      "critical": 3197092,
+      "crit_percent": "340.93%",
+      "crit_dmg": 12081478,
+      "crit_dmg_percent": "1095.64%",
+      "pdef_mdef": 951632,
+      "pdef_mdef_percent": "332.58%",
+      "fd": 58688,
+      "fd_percent": "392.72%"
+    },
+    {
+      "level": 38,
+      "critical": 3297092,
+      "crit_percent": "351.59%",
+      "crit_dmg": 12531478,
+      "crit_dmg_percent": "1129.00%",
+      "pdef_mdef": 981632,
+      "pdef_mdef_percent": "343.07%",
+      "fd": 59888,
+      "fd_percent": "400.75%"
+    },
+    {
+      "level": 39,
+      "critical": 3397092,
+      "crit_percent": "362.26%",
+      "crit_dmg": 12981478,
+      "crit_dmg_percent": "1162.36%",
+      "pdef_mdef": 1011632,
+      "pdef_mdef_percent": "353.55%",
+      "fd": 61088,
+      "fd_percent": "408.78%"
+    },
+    {
+      "level": 40,
+      "critical": 3497092,
+      "crit_percent": "372.92%",
+      "crit_dmg": 13431478,
+      "crit_dmg_percent": "1195.72%",
+      "pdef_mdef": 1041632,
+      "pdef_mdef_percent": "364.04%",
+      "fd": 62288,
+      "fd_percent": "416.81%"
+    }
+  ]
+}
