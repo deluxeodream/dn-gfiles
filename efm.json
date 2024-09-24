@@ -1,0 +1,82 @@
+{
+  "title": "FM18: Erosion Stat Penalty & Stat Cap (With MAX Guild Buff, MAX combined skill)",
+  "penalties": {
+    "anxiety": "-1,000,000 Critical",
+    "compulsion": "-4,500,000 Cdmg",
+    "depression": "-300,000 Pdef",
+    "despair": "-300,000 Mdef",
+    "doubt": "-12,000 Final Damage"
+  },
+  "floors": [
+    {
+      "floor": 18,
+      "statCap": {
+        "anxiety_stat_cap_percentage": 244.96,
+        "compulsion_stat_cap_percentage": 795.40,
+        "depression_stat_cap_percentage": 238.22,
+        "despair_stat_cap_percentage": 238.22,
+        "doubt_stat_cap_percentage": 320.45
+      }
+    },
+    {
+      "floor": 19,
+      "statCap": {
+        "anxiety_stat_cap_percentage": 255.62,
+        "compulsion_stat_cap_percentage": 828.76,
+        "depression_stat_cap_percentage": 248.71,
+        "despair_stat_cap_percentage": 248.71,
+        "doubt_stat_cap_percentage": 328.48
+      }
+    },
+    {
+      "floor": 20,
+      "statCap": {
+        "anxiety_stat_cap_percentage": 266.28,
+        "compulsion_stat_cap_percentage": 862.12,
+        "depression_stat_cap_percentage": 259.19,
+        "despair_stat_cap_percentage": 259.19,
+        "doubt_stat_cap_percentage": 336.51
+      }
+    },
+    {
+      "floor": 21,
+      "statCap": {
+        "anxiety_stat_cap_percentage": 276.95,
+        "compulsion_stat_cap_percentage": 895.48,
+        "depression_stat_cap_percentage": 269.67,
+        "despair_stat_cap_percentage": 269.67,
+        "doubt_stat_cap_percentage": 344.54
+      }
+    },
+    {
+      "floor": 22,
+      "statCap": {
+        "anxiety_stat_cap_percentage": 287.61,
+        "compulsion_stat_cap_percentage": 928.84,
+        "depression_stat_cap_percentage": 280.16,
+        "despair_stat_cap_percentage": 280.16,
+        "doubt_stat_cap_percentage": 352.57
+      }
+    },
+    {
+      "floor": 23,
+      "statCap": {
+        "anxiety_stat_cap_percentage": 298.28,
+        "compulsion_stat_cap_percentage": 962.20,
+        "depression_stat_cap_percentage": 290.64,
+        "despair_stat_cap_percentage": 290.64,
+        "doubt_stat_cap_percentage": 360.60
+      }
+    },
+    {
+      "floor": 24,
+      "statCap": {
+        "anxiety_stat_cap_percentage": 308.94,
+        "compulsion_stat_cap_percentage": 995.56,
+        "depression_stat_cap_percentage": 301.13,
+        "despair_stat_cap_percentage": 301.13,
+        "doubt_stat_cap_percentage": 368.63
+      }
+    }
+  ]
+}
